@@ -1,0 +1,7 @@
+C:\Users\lukja\source\repos\AKdemiaJEDEN\AKdemiaJEDEN\bin\Debug\AKdemiaJEDEN.exe.config
+C:\Users\lukja\source\repos\AKdemiaJEDEN\AKdemiaJEDEN\bin\Debug\AKdemiaJEDEN.exe
+C:\Users\lukja\source\repos\AKdemiaJEDEN\AKdemiaJEDEN\bin\Debug\AKdemiaJEDEN.pdb
+C:\Users\lukja\source\repos\AKdemiaJEDEN\AKdemiaJEDEN\obj\Debug\AKdemiaJEDEN.csprojAssemblyReference.cache
+C:\Users\lukja\source\repos\AKdemiaJEDEN\AKdemiaJEDEN\obj\Debug\AKdemiaJEDEN.csproj.CoreCompileInputs.cache
+C:\Users\lukja\source\repos\AKdemiaJEDEN\AKdemiaJEDEN\obj\Debug\AKdemiaJEDEN.exe
+C:\Users\lukja\source\repos\AKdemiaJEDEN\AKdemiaJEDEN\obj\Debug\AKdemiaJEDEN.pdb
